@@ -4,7 +4,7 @@ A simple distributed system
 This code was written as a homework assignment for a distributed systems class at Wesleyan University. It was built using the following code given to us by the professor as a framework: http://jeepstein.web.wesleyan.edu/comp360/phase1/
 
 Features:
-- set/get varaible commands
+- set/get variable commands
 - locks
 - heartbeats
 - view replication
